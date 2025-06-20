@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#00FF00"                # Neon Green
+backgroundColor = "#000000"             # Pure Black
+secondaryBackgroundColor = "#111111"    # Dark Gray
+textColor = "#33FF33"                   # Matrix Green
+font = "monospace"
